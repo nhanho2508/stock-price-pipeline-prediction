@@ -10,7 +10,6 @@ This project builds a real-time stock analysis and visualization system using mo
 
 ## 🏗️ System Architecture
 
-![System Architecture](./image.png)
 
 ### Components:
 
